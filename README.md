@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello there! 👋
 
-<!--
-**codexNature/codexNature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently, I'm deeply immersed in Blockchain Development.
 
-Here are some ideas to get you started:
+🌱 My ongoing journey involves diving into Web3 technologies, mastering the art of writing smart contracts using Solidity, and exploring deployment methods with tools like Foundry, Hardhat, and Truffle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to ask me anything; I'm always eager to assist.
+
+📫 You can reach out to me at my website: https://solacodes.onrender.com/
+
+Languages
+Solidity | JavaScript | HTML | Java
+
+Technologies
+AWS | Linux | Node.js | React | Next.js | Redux | PostgreSQL | Ubuntu
+
+Tools and Platforms
+VSCode | Windows Terminal | Notion | Zoom | Udemy | GitHub
+
+Let's collaborate and innovate together.
