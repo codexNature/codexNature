@@ -28,6 +28,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=#FFCA28)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redox&logoColor=#764ABC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=##7952B3)
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=googlecloud&logoColor=#4285F4)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
