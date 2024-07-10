@@ -14,20 +14,9 @@
 
 ### Technologies
 
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss&logoColor=#06B6D4)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=#47A248)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express&logoColor=#000000)
-![EJS](https://img.shields.io/badge/-EJS-000?&logo=ejs&logoColor=#B4CA65)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=#FFCA28)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=redox&logoColor=#764ABC)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=##7952B3)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=googlecloud&logoColor=#4285F4)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+
+![Foundry](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 
@@ -39,7 +28,6 @@
 ![Windows Terminal](https://img.shields.io/badge/-Terminal-000?&logo=Windows-Terminal&style=flat-square)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&style=flat-square)
 ![Zoom](https://img.shields.io/badge/-Zoom-000?&logo=Zoom&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=flat-square)
 
 Let's collaborate and innovate together.
