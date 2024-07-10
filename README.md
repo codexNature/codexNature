@@ -1,19 +1,12 @@
 ### Hello there! 👋
 
-🔭 Currently, I'm deeply immersed in Blockchain Development.
-
-🌱 My ongoing journey involves diving into Web3 technologies, mastering the art of writing smart contracts using Solidity, and exploring deployment methods with tools like Foundry, Hardhat, and Truffle.
-
-💬 Feel free to ask me anything; I'm always eager to assist.
-
-📫 You can reach out to me at my website: https://solacodes.onrender.com/
+🔭 I'm thrilled to introduce myself as an independent Smart Contract Threat Researcher with a deep focus on Solidity and the Foundry framework. My work revolves around identifying and mitigating vulnerabilities within smart contracts to ensure their security and reliability. With a strong foundation in blockchain technology and extensive experience in the field, I am dedicated to safeguarding decentralized applications from potential threats. Whether it's through comprehensive code audits, advanced security assessments, or proactive threat analysis, my goal is to enhance the safety and trustworthiness of smart contract ecosystems. Let's collaborate to build a more secure and resilient blockchain future!
 
 ### Languages
 
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
+
 
 
 
